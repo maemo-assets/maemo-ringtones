@@ -1,3 +1,9 @@
+maemo-ringtones (1.2) unstable; urgency=medium
+
+  * Fix paths - thanks to Rafael Diniz
+
+ -- Merlijn Wajer <merlijn@wizzup.org>  Thu, 05 Jan 2023 10:30:52 +0100
+
 maemo-ringtones (1.1) unstable; urgency=medium
 
   * Import from Nokia deb file
