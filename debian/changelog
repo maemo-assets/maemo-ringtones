@@ -1,3 +1,10 @@
+maemo-ringtones (1.3) unstable; urgency=medium
+
+  * Use correct Nokia_tune.aac name.
+  * Re-add other ringtones.
+
+ -- Rafael Diniz <rafael@riseup.net>  Fri, 06 Jan 2023 01:01:12 +0300
+
 maemo-ringtones (1.2) unstable; urgency=medium
 
   * Fix paths - thanks to Rafael Diniz
@@ -10,3 +17,66 @@ maemo-ringtones (1.1) unstable; urgency=medium
 
  -- Merlijn Wajer <merlijn@wizzup.org>  Thu, 05 Jan 2023 10:19:06 +0100
 
+maemo-ringtones-mr0 (1.1+0m5) unstable; urgency=low
+
+  * This entry has been added by BIFH queue processor
+    Suffix +0m5 added to package revision
+
+ -- Janne Hillervo <janne.hillervo@nokia.com>  Tue, 01 Sep 2009 13:53:47 +0300
+
+maemo-ringtones-mr0 (1.1) unstable; urgency=low
+
+  * Adds more conventional ringtones.
+  * Fixes: NB#134794
+
+ -- Janne Hillervo <janne.hillervo@nokia.com>  Wed, 26 Aug 2009 10:44:12 +0300
+
+maemo-ringtones-mr0 (1.0) unstable; urgency=low
+
+  * Adjusts volume for ringtones.
+  * Fixes: NB#130985
+
+ -- Janne Hillervo <janne.hillervo@nokia.com>  Mon, 10 Aug 2009 10:44:12 +0300
+
+maemo-ringtones-mr0 (0.7) unstable; urgency=low
+
+  * Adds real names to ringtones.
+  * Fixes: NB#117854
+
+ -- Janne Hillervo <janne.hillervo@nokia.com>  Thu, 08 Jun 2009 10:44:12 +0300
+
+maemo-ringtones-mr0 (0.6) unstable; urgency=low
+
+  * Adds defaults to SMS, Email and IM.
+
+ -- Janne Hillervo <janne.hillervo@nokia.com>  Thu, 23 Apr 2009 14:48:12 +0300
+
+maemo-ringtones-mr0 (0.5) unstable; urgency=low
+
+  * More tweaks.
+
+ -- Janne Hillervo <janne.hillervo@nokia.com>  Tue, 31 Mar 2009 15:05:12 +0300
+
+maemo-ringtones-mr0 (0.4) unstable; urgency=low
+
+  * More tweaks. Adds the emmc content.
+
+ -- Janne Hillervo <janne.hillervo@nokia.com>  Sun, 29 Mar 2009 11:10:12 +0300
+
+maemo-ringtones-mr0 (0.3) unstable; urgency=low
+
+  * More tweaks. Adds the emmc content.
+
+ -- Janne Hillervo <janne.hillervo@nokia.com>  Fri, 27 Mar 2009 11:10:12 +0300
+
+maemo-ringtones-mr0 (0.2) unstable; urgency=low
+
+  * Small tweak.
+
+ -- Janne Hillervo <janne.hillervo@nokia.com>  Thu, 26 Mar 2009 18:10:12 +0300
+
+maemo-ringtones-mr0 (0.1) unstable; urgency=low
+
+  * Ringtones. Partially. I.e. sets the ringtone, sms tone and email tone.
+
+ -- Janne Hillervo <janne.hillervo@nokia.com>  Thu, 26 Mar 2009 10:28:12 +0300
