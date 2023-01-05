@@ -1,0 +1,14 @@
+Source: maemo-ringtones
+Priority: optional
+Section: x11
+Maintainer: Merlijn Wajer <merlijn@wizzup.org>
+Build-Depends:
+ debhelper-compat (=12),
+Standards-Version: 4.3.0
+Vcs-Git: https://github.com/maemo-leste/maemo-ringtones
+Vcs-Browser: https://github.com/maemo-leste/maemo-ringtones
+
+Package: maemo-ringtones-mr0
+Architecture: all
+Depends: ${misc:Depends}
+Description: Maemo ringtones
