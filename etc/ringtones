@@ -14,33 +14,33 @@
 "Beep"      /usr/share/sounds/Beep.aac
 
 [EMAIL]
-"Email 1"   /usr/share/sounds/Emailalert1.aac
-"Email 2"   /usr/share/sounds/Emailalert2.aac
+"Email 1"   /usr/share/sounds/Email1.aac
+"Email 2"   /usr/share/sounds/Email2.aac
 "Beep"      /usr/share/sounds/Beep.aac
 
 
 [RINGTONE]
-"Astrosphere"	/home/user/MyDocs/.sounds/Ringtones/Astrosphere.aac
-"Astrum"	/home/user/MyDocs/.sounds/Ringtones/Astrum.aac
-"Atmos"		/home/user/MyDocs/.sounds/Ringtones/Atmos.aac
+"Astrosphere"	/usr/share/sounds/Astrosphere.aac
+"Astrum"	/usr/share/sounds/Astrum.aac
+"Atmos"		/usr/share/sounds/Atmos.aac
 "Beep"          /usr/share/sounds/Beep.aac
-"Bicycle"	/home/user/MyDocs/.sounds/Ringtones/Bicycle.aac
-"Earthen"	/home/user/MyDocs/.sounds/Ringtones/Earthen.aac
-"Electra"	/home/user/MyDocs/.sounds/Ringtones/Electra.aac
-"Flying Colours" /home/user/MyDocs/.sounds/Ringtones/FlyingColours.aac
-"Gradient"	/home/user/MyDocs/.sounds/Ringtones/Gradient.aac
-"Ice Tone"	/home/user/MyDocs/.sounds/Ringtones/IceTone.aac
-"Low"		/home/user/MyDocs/.sounds/Ringtones/Low.aac
-"Lumina"	/home/user/MyDocs/.sounds/Ringtones/Lumina.aac
-"Mirror Image"	/home/user/MyDocs/.sounds/Ringtones/MirrorImage.aac
-"Nokia Tune"    /usr/share/sounds/NokiaTune.aac
-"Outer Space"	/home/user/MyDocs/.sounds/Ringtones/OuterSpace.aac
-"Ploptic"	/home/user/MyDocs/.sounds/Ringtones/Ploptic.aac
-"Solenoid"	/home/user/MyDocs/.sounds/Ringtones/Solenoid.aac
-"Sublite"       /home/user/MyDocs/.sounds/Ringtones/Sublite.aac
-"Sublunar"	/home/user/MyDocs/.sounds/Ringtones/Sublunar.aac
-"Telegraph"	/home/user/MyDocs/.sounds/Ringtones/Telegraph.aac
-"Temporal"	/home/user/MyDocs/.sounds/Ringtones/Temporal.aac
-"Terrestial"	/home/user/MyDocs/.sounds/Ringtones/Terrestial.aac
-"Tinker"	/home/user/MyDocs/.sounds/Ringtones/Tinker.aac
-"Transcend"	/home/user/MyDocs/.sounds/Ringtones/Transcend.aac
+"Bicycle"	/usr/share/sounds/Bicycle.aac
+"Earthen"	/usr/share/sounds/Earthen.aac
+"Electra"	/usr/share/sounds/Electra.aac
+"Flying Colours" /usr/share/sounds/FlyingColours.aac
+"Gradient"	/usr/share/sounds/Gradient.aac
+"Ice Tone"	/usr/share/sounds/IceTone.aac
+"Low"		/usr/share/sounds/Low.aac
+"Lumina"	/usr/share/sounds/Lumina.aac
+"Mirror Image"	/usr/share/sounds/MirrorImage.aac
+"Nokia Tune"    /usr/share/sounds/Nokia_tune.aac
+"Outer Space"	/usr/share/sounds/OuterSpace.aac
+"Ploptic"	/usr/share/sounds/Ploptic.aac
+"Solenoid"	/usr/share/sounds/Solenoid.aac
+"Sublite"       /usr/share/sounds/Sublite.aac
+"Sublunar"	/usr/share/sounds/Sublunar.aac
+"Telegraph"	/usr/share/sounds/Telegraph.aac
+"Temporal"	/usr/share/sounds/Temporal.aac
+"Terrestial"	/usr/share/sounds/Terrestial.aac
+"Tinker"	/usr/share/sounds/Tinker.aac
+"Transcend"	/usr/share/sounds/Transcend.aac
